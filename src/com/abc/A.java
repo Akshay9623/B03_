@@ -6,10 +6,7 @@ public class A {
 		System.out.println("non-static block");
 		
 	}
-	{
-		System.out.println("non-static block");
-		
-	}
+
 	static
 	{
 		System.out.println("static block");
