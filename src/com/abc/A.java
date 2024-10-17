@@ -4,6 +4,11 @@ public class A {
 
 	{
 		System.out.println("non-static block");
+		
+	}
+	{
+		System.out.println("non-static block");
+		
 	}
 	static
 	{
